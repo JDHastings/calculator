@@ -39,6 +39,7 @@ body {
     text-align: right;
     flex: 1;
     padding: 20px 10px 0 0;
+    color: grey;
 }
 
 .row {
